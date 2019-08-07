@@ -1,1 +1,1 @@
-# An-Analysis-on-LIS-Data-and-Lightning-News-from-Bangla-Newspapers
+# -An-analysis-on-LIS-data-and-Lightning-news-from-Bangla-newspaper
